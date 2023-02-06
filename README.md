@@ -9,7 +9,7 @@
 Set the key to SITE and the value should be your "yourdomain.com".
 5.2) Start a new deploy
 6) Add your custom domain to Netlify under "Settings>Domain Management>Domains"
-7) Click on Verify and then on Add Domain
-8) Go to the site where you bought your custom domain and add the DNS records as mentioned in the previous step. With this step, you will point your domain to Netlify
+7) Click on "Verify" and then on "Add Domain"
+8) Go to the site where you bought your custom domain and add the DNS records as mentioned in the previous step. You will point your domain to Netlify.
 
 🎉 Your site should be live on your custom domain.
